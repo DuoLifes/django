@@ -1,0 +1,7 @@
+git地址：https://gitee.com/liqianglog/django-vue-admin?_from=gitee_search
+git 代码：git@gitee.com:liqianglog/django-vue-admin.git
+演示地址：http://demo.django-vue-admin.com
+	账号：superadmin  	密码：admin123456
+文档地址：https://django-vue-admin.com
+
+接口：ApiPost7=》登录=》企业级后台管理系统
